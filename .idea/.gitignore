@@ -1,0 +1,14 @@
+
+# Default ignored files
+/workspace.xml
+## IntelliJ IDEA files ##
+.idea
+classes
+##Project files##
+.classpath
+.project
+.settings/
+bin/
+.DS_Store
+## Restricted Files ##
+*.jar
